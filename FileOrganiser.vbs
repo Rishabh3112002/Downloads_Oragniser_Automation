@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\ksr20\PycharmProjects\Downloads\FileOrganiser", 0, True
